@@ -23,6 +23,7 @@ This is a repository for organizing articles related to incremental detection. M
 > #### 7) *"Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism", arxiv.* [[paper](https://arxiv.org/pdf/2205.03055.pdf)][[code](https://github.com/dkxocl/ROSSETA)]
 > #### 8) *"Modeling Missing Annotations for Incremental Learning in Object Detection", arxiv.* [[paper](https://arxiv.org/pdf/2204.08766.pdf)]
 
+
 ## 2. Incremental-Few-Shot-Detection
 
 > #### 1) *"Incremental Few-Shot Object Detection", CVPR 2020.* [[paper](https://arxiv.org/pdf/2003.04668.pdf)][[code](https://github.com/leokarlin/LaSO)]
@@ -33,6 +34,7 @@ This is a repository for organizing articles related to incremental detection. M
 ## 3. Application
 
 > #### 1) *"A Lifelong Learning Method for Gearbox Diagnosis With Incremental Fault Types", ITIM.* [[paper](https://ieeexplore.ieee.org/document/9780125)]
+> #### 2) *"Wanderlust: Online Continual Object Detection in the Real World", ICCV 2021.* [[paper](https://arxiv.org/pdf/2108.11005.pdf)][[code](https://oakdata.github.io/)]
 
 ## Search keyword
 

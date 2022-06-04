@@ -15,20 +15,24 @@ This is a repository for organizing articles related to incremental detection. M
 ## 1. Incremental/Continual-Detection
 
 > #### 1) *"Label-Efficient Online Continual Object Detection in Streaming Video", arxiv.* [[paper](https://arxiv.org/pdf/2206.00309.pdf)]
-> #### 2) *"HIRL: A General Framework for Hierarchical Image Representation Learning", arxiv.* [[paper](https://arxiv.org/pdf/2205.13159.pdf)][[code](https://github.com/hirl-team/HIRL)]
-> #### 3) *"IIRC: Incremental Implicitly-Refined Classification Mohamed", CVPR 2021.* [[paper](https://arxiv.org/pdf/2012.12477.pdf)][[code](https://github.com/chandar-lab/IIRC)]
-
+> #### 2) *"Incremental Object Detection via Meta-Learning", TPAMI.* [[paper](https://arxiv.org/pdf/2003.08798.pdf)][[code](https://github.com/JosephKJ/iOD)]
+> #### 3) *"Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation", arxiv.* [[paper](https://arxiv.org/pdf/2204.02136.pdf)][[code](https://github.com/Hi-FT/ERD)]
+> #### 4) *"Incremental Learning of Object Detectors without Catastrophic Forgetting", ICCV 2017.* [[paper](https://arxiv.org/pdf/1708.06977.pdf)][[code](https://github.com/kshmelkov/incremental_detectors)]
+> #### 5) *"Multi-Task Incremental Learning for Object Detection", arxiv.* [[paper](https://arxiv.org/pdf/2002.05347.pdf)]
+> #### 6) *"Continual Object Detection: A review of definitions, strategies, and challenges", arxiv.* [[paper](https://arxiv.org/pdf/2205.15445.pdf)]
+> #### 7) *"Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism", arxiv.* [[paper](https://arxiv.org/pdf/2205.03055.pdf)][[code](https://github.com/dkxocl/ROSSETA)]
+> #### 8) *"Modeling Missing Annotations for Incremental Learning in Object Detection", arxiv.* [[paper](https://arxiv.org/pdf/2204.08766.pdf)]
 
 ## 2. Incremental-Few-Shot-Detection
 
-> #### 1) *"LaSO: Label-Set Operations networks for multi-label few-shot learning", CVPR 2019.* [[paper](https://arxiv.org/pdf/1902.09811.pdf)][[code](https://github.com/leokarlin/LaSO)]
-> #### 2) *"Delving into Deep Imbalanced Regression", ICML 2021 (oral).* [[paper](https://arxiv.org/pdf/2102.09554.pdf)][[code](https://github.com/YyzHarry/imbalanced-regression)]
+> #### 1) *"Incremental Few-Shot Object Detection", CVPR 2020.* [[paper](https://arxiv.org/pdf/2003.04668.pdf)][[code](https://github.com/leokarlin/LaSO)]
+> #### 2) *"iFS-RCNN: An Incremental Few-shot Instance Segmenter", CVPR 2022.* [[paper](https://arxiv.org/pdf/2205.15562.pdf)][[code](https://github.com/ducminhkhoi/iFS-RCNN)]
+> #### 3) *"Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning", arxiv.* [[paper](https://arxiv.org/pdf/2205.04042.pdf)][[code](https://github.com/ducminhkhoi/iFS-RCNN)]
+> #### 4) *"Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection", CVPR 2022.* [[paper](https://arxiv.org/pdf/2203.13903.pdf)][[code](https://github.com/ducminhkhoi/iFS-RCNN)]
 
 ## 3. Application
 
-> #### 1) *"LaSO: Label-Set Operations networks for multi-label few-shot learning", CVPR 2019.* [[paper](https://arxiv.org/pdf/1902.09811.pdf)][[code](https://github.com/leokarlin/LaSO)]
-> #### 2) *"Delving into Deep Imbalanced Regression", ICML 2021 (oral).* [[paper](https://arxiv.org/pdf/2102.09554.pdf)][[code](https://github.com/YyzHarry/imbalanced-regression)]
-
+> #### 1) *"A Lifelong Learning Method for Gearbox Diagnosis With Incremental Fault Types", ITIM.* [[paper](https://ieeexplore.ieee.org/document/9780125)]
 
 ## Search keyword
 

@@ -9,6 +9,7 @@ This is a repository for organizing articles related to incremental detection. M
 - [1. Incremental/Continual-Detection](#1-Incremental-Detection)
 - [2. Incremental-Few-Shot-Detection](#2-Incremental-Few-Shot-Detection)
 - [3. Application](#3-Application)
+- [4. Open-Vocabulary](#4-Open-Vocabulary)
 
 ---
 
@@ -35,6 +36,10 @@ This is a repository for organizing articles related to incremental detection. M
 
 > #### 1) *"A Lifelong Learning Method for Gearbox Diagnosis With Incremental Fault Types", ITIM.* [[paper](https://ieeexplore.ieee.org/document/9780125)]
 > #### 2) *"Wanderlust: Online Continual Object Detection in the Real World", ICCV 2021.* [[paper](https://arxiv.org/pdf/2108.11005.pdf)][[code](https://oakdata.github.io/)]
+
+## 4. Open-Vocabulary
+
+> #### 1) *"OPEN-VOCABULARY OBJECT DETECTION VIA VISION AND LANGUAGE KNOWLEDGE DISTILLATION", ICLR 2022.* [[paper](https://openreview.net/pdf?id=lL3lnMbR4WU)]
 
 ## Search keyword
 
